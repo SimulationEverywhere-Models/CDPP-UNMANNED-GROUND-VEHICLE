@@ -1,0 +1,6 @@
+00:00:02:000 turnRight 10
+00:00:04:000 turnLeft 10
+00:00:06:000 turnLeft 20
+00:00:08:000 turnRight 20
+00:00:10:000 turnLeft 0
+00:00:12:000 turnRight 0
